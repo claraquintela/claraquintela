@@ -10,7 +10,7 @@ As a Fullstack Web Developer, I’m passionate about creating exceptional digita
 * ✉️  You can contact me at [clara@claraquintela.com](mailto:clara@claraquintela.com)
 * 🧠  I'm learning React (in depth)
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm a big time fan of World of Warcraft
+* ⚡  I'm a big fan of World of Warcraft (look for Leiä, Realm: Azralon)
 
 ### Skills
 
