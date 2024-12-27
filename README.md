@@ -29,3 +29,8 @@ As a Fullstack Web Developer, I’m passionate about creating exceptional digita
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/claraquintela/EduNova" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=claraquintela&repo=EduNova&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=claraquintela&show_icons=true&locale=en&layout=compact" alt="claraquintela" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=claraquintela&show_icons=true&locale=en" alt="claraquintela" /></p>
